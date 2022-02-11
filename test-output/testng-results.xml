@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-11T12:12:11 IST" name="Default suite" finished-at="2022-02-11T12:12:21 IST" duration-ms="10026">
+    <groups>
+    </groups>
+    <test started-at="2022-02-11T12:12:11 IST" name="Default test" finished-at="2022-02-11T12:12:21 IST" duration-ms="10026">
+      <class name="irfanhub.qa.sampleproject.testscripts.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:irfanhub.qa.sampleproject.testscripts.LoginPageTest@67a20f67]" started-at="2022-02-11T12:12:11 IST" name="setup" finished-at="2022-02-11T12:12:20 IST" duration-ms="9167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTitle()[pri:0, instance:irfanhub.qa.sampleproject.testscripts.LoginPageTest@67a20f67]" started-at="2022-02-11T12:12:20 IST" name="validateTitle" description="ValidateTitlePage" finished-at="2022-02-11T12:12:21 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="close()[pri:0, instance:irfanhub.qa.sampleproject.testscripts.LoginPageTest@67a20f67]" started-at="2022-02-11T12:12:21 IST" name="close" finished-at="2022-02-11T12:12:21 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- irfanhub.qa.sampleproject.testscripts.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
